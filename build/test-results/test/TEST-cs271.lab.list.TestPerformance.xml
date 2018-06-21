@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs271.lab.list.TestPerformance" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-06-18T06:06:43" hostname="IND-L-Vathipatla" time="0.065">
+  <properties/>
+  <testcase name="testArrayListAccess" classname="cs271.lab.list.TestPerformance" time="0.009"/>
+  <testcase name="testLinkedListAddRemove" classname="cs271.lab.list.TestPerformance" time="0.021"/>
+  <testcase name="testLinkedListAccess" classname="cs271.lab.list.TestPerformance" time="0.01"/>
+  <testcase name="testArrayListAddRemove" classname="cs271.lab.list.TestPerformance" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
